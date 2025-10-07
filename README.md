@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jonathan! 
 
-<!--
-**jonathanrobin13/jonathanrobin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
 
-Here are some ideas to get you started:
+I'm a student who is currently trying to learn python and javascript with p5.js. I know a lot of HTML and CSS.  I like to code and I like to play football. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning: **Python, p5.js**
+-  Working on: **Shark Attack (coming soon)**
+-  Languages: **I know HTML and CSS as well as english, malayalam and hindi.**
+-  Fun fact: **I know stuff**
+
+## Featured Projects 💻
+I don't have projects yet, but once I learn a little bit more coding, I will post it. Shark Attack is coming soon.
+
+
+
+
