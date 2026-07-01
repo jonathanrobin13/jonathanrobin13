@@ -2,7 +2,9 @@
 
 ## Description About Me 
 
-I am student who is currently trying to become a coder.  I like to code and I like to play basketball, volleyball and football. I am also interesested in NASA.
+I am student who is currently trying to become a coder. I like to code and I like to play basketball, volleyball and football. I am also interesested in NASA. 
+
+### Jesus Is King!
 
 - Currently learning: **Python, C++, C#**
 -  Working on: **Shark Attack (coming soon)**
