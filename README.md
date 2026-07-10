@@ -12,4 +12,6 @@ I am student who is currently trying to become a coder. I like to code and I lik
 ## Projects
 Currently, I have a project called excel-price-processor, which is a python program that updates prices in a excel file. Shark Attack is coming soon.
 
+## Coding Stats
 
+[![WakaTime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=38990&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
