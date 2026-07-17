@@ -1,6 +1,6 @@
 # Jonathan
 ### Philippians 3:14
-**"I can do all things through Christ who strengthens me."
+**"I can do all things through Christ who strengthens me."**
 
 ## Description About Me 
 
